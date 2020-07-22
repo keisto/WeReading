@@ -8,6 +8,9 @@
     // I might clean up the css/styling later at the momment I was building for speed
 ```
 
+**Postman Collection:** https://www.getpostman.com/collections/3332883c5a1ec320628b 
+
+
 ># Booj Reading List
 >*Beware of the person of one book. -- Thomas Aquinas*
 >## Task
