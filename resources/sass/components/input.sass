@@ -1,0 +1,21 @@
+.input
+    &:not(:first-of-type)
+        @apply mt-6
+
+    input
+        @apply appearance-none bg-white border-2 border-gray-300 px-6 py-3 rounded transition-all duration-200 w-full
+        &[type='password']
+            @apply tracking-widest
+        &:focus
+            @apply outline-none shadow-outline-gray border-gray-700
+
+    label
+        @apply block text-gray-700 mb-2
+
+    &.has-error
+        label
+            @apply text-red-400
+        input
+            @apply bg-red-100 border-red-400
+        .hint
+            @apply text-red-400 text-sm
