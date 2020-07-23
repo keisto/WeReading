@@ -1,4 +1,7 @@
 # WeReading - Laravel SPA using Vue
+
+🖥️ [View Site](http://192.241.195.162)
+
 ```javascript
     // Note from Tony
     //
